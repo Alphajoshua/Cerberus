@@ -7,7 +7,9 @@
         mc:Ignorable="d"
         Title="Cerberus - | Password generator |" Height="400" Width="800"
         WindowStartupLocation="CenterScreen"
-        >
+        WindowState="Normal"
+        WindowStyle="None">
+    
     <Grid Background="#1e2227">
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
