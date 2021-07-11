@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerberus", "Cerberus\Cerberus.csproj", "{306C240F-6281-411F-AFDE-7ECE9A78C80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306C240F-6281-411F-AFDE-7ECE9A78C80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306C240F-6281-411F-AFDE-7ECE9A78C80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306C240F-6281-411F-AFDE-7ECE9A78C80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306C240F-6281-411F-AFDE-7ECE9A78C80B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6895447-0B8E-48B2-AE65-28EF3A5C0069}
+	EndGlobalSection
+EndGlobal
