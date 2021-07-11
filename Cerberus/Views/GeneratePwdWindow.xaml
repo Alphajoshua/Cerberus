@@ -23,7 +23,7 @@
                 <TextBox Name="ToFocus" Text="{Binding Password}"  Width="250" VerticalAlignment="Center" IsReadOnly="True"/>
                 <Button Style="{StaticResource MenuButton}" ToolTip="Copy Password" Command="{Binding Command_Button_Copy_Pwd}" CommandParameter="{Binding}" Margin="15,0,0,0">
                     <Button.Background>
-                        <ImageBrush ImageSource="{StaticResource copyDrawingImage}"/>
+                        <ImageBrush ImageSource="{StaticResource copyPasswordDrawingImage}"/>
                     </Button.Background>
                 </Button>
             </StackPanel>
